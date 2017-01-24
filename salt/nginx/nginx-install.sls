@@ -1,7 +1,6 @@
 include:
   - nginx.pkg
 {% set version = '1.10.2'  %}
-#user:www,passwd:Aa@think1,cmd:openssl passwd  -1 
 nginx_user:
   user.present:
     - name: www

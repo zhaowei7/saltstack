@@ -1,6 +1,6 @@
 env-passwd:
-  KEYSTONE_ADMIN_PW: AdmiN609787
-  KEYSTONE_DEMO_PW: cloudcc123 
+  KEYSTONE_ADMIN_PW: AdmiNopenstack
+  KEYSTONE_DEMO_PW: peterzhao 
   NOVA_PW: 1WnoVa609
   GLANCE_PW: 2q6Glance620
   NEUTRON_PW: 3rNeuTron787

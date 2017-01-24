@@ -1,0 +1,8 @@
+/application/tomcat/logs/catalina.out {
+	copytruncate    
+	daily 
+	rotate 15   
+	dateext    
+	nocompress    
+	missingok
+}

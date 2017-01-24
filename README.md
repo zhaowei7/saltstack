@@ -1,4 +1,5 @@
 # 生产SALT自动化安装
+'''
 |-- chrony
 |   |-- files
 |   |   |-- chrony-client.conf
@@ -107,3 +108,4 @@
     |   `-- apache-tomcat-7.0.70.tar.gz
     |-- split-catalina.sls
     `-- tomcat-install.sls
+'''
